@@ -1,0 +1,9 @@
+Package: org.h6nry.ncforward
+Name: NCForward
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Version: 2.3-dev
+Architecture: iphoneos-arm
+Description: Forward iOS notfications to any other device.
+Maintainer: H6nry <henry.anonym@gmail.com>
+Author: H6nry <henry.anonym@gmail.com>
+Section: Tweaks

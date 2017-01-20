@@ -1,0 +1,9 @@
+Package: org.h6nry.rsspeek
+Name: RSSPeek
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode, com.chpwn.weeloader
+Version: 1.0-rc1
+Architecture: iphoneos-arm
+Description: An RSS client in your notification center that does not suck.
+Maintainer: H6nry <henry.anonym@gmail.com>
+Author: H6nry <henry.anonym@gmail.com>
+Section: Addons (NotificationCenter)

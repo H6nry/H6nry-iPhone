@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>bundle</key>
+		<string>watchscreenpreferences</string>
+		<key>cell</key>
+		<string>PSLinkCell</string>
+		<key>detail</key>
+		<string>watchscreenpreferencesListController</string>
+		<key>icon</key>
+		<string>org.h6nry.watchscreenprefs@2x.png</string>
+		<key>isController</key>
+		<string>1</string>
+		<key>label</key>
+		<string>watchscreen</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+Package: org.h6nry.voicetest
+Name: voicetest
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome tool of some sort!!
+Maintainer: H6nry <henry.anonym@gmiail.com>
+Author: H6nry <henry.anonym@gmiail.com>
+Section: System
+Tag: role::hacker

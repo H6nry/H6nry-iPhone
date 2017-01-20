@@ -1,0 +1,9 @@
+Package: org.h6nry.ttdt
+Name: TrueToneDisplayTest
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome application!
+Maintainer: H6nry <henry.anonym@gmail.com>
+Author: H6nry <henry.anonym@gmail.com>
+Section: Utilities

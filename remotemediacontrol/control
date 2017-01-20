@@ -1,0 +1,10 @@
+Package: team.fanboyfanboy-h6nry.remotemediacontrol
+Name: RemoteMediaControl
+Depends:
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Control your iPhone's music and videos remotely!
+Maintainer: fanboyfanboy/H6nry <UPDATEME@NOREPLY.COM>
+Author: fanboyfanboy/H6nry <UPDATEME@NOREPLY.COM>
+Section: Tweaks
+Tag: role::user

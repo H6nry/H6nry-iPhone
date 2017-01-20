@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = tcprefs;
+	cell = PSLinkCell;
+	detail = tcprefsListController;
+	icon = tcprefs.png;
+	isController = 1;
+	label = Tapcounter;
+    };
+}

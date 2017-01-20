@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<!-- The list is created at runtime. The slider is not. -->
+		<dict>
+			<key>cell</key> <string>PSGroupCell</string>
+			<key>label</key> <string></string>
+			<key>footerText</key>
+			<string>Change how many feed items are displayed in the widget.</string>
+		</dict>
+
+		<dict>
+			<key>cell</key> <string>PSLinkListCell</string>
+			<key>label</key> <string>Displayed items</string>
+			<key>set</key> <string>setDisplayCount:specifier:</string>
+			<key>get</key> <string>getDisplayCount:</string>
+			<key>key</key> <string>displayItemCount</string>
+			<key>detail</key> <string>PSListItemsController</string>
+			<key>validValues</key>
+			<array>
+				<string>5</string>
+				<string>10</string>
+				<string>15</string>
+				<string>20</string>
+				<string>30</string>
+				<string>40</string>
+				<string>50</string>
+			</array>
+			<key>validTitles</key>
+			<array>
+				<string>5</string>
+				<string>10</string>
+				<string>15</string>
+				<string>20</string>
+				<string>30</string>
+				<string>40</string>
+				<string>50</string>
+			</array>
+		</dict>
+
+		<!-- Additional section -->
+		<dict>
+			<key>cell</key> <string>PSGroupCell</string>
+			<key>label</key> <string></string>
+		</dict>
+
+		<dict>
+			<key>action</key> <string>twitter</string>
+			<key>cell</key> <string>PSButtonCell</string>
+			<key>label</key> <string>My Twitter @H6nry_</string>
+			<key>dontIndentOnRemove</key> <false/>
+		</dict>
+
+		<dict>
+			<key>action</key> <string>mail</string>
+			<key>cell</key> <string>PSButtonCell</string>
+			<key>label</key> <string>Write an e-mail to me</string>
+			<key>dontIndentOnRemove</key> <true/>
+		</dict>
+
+		<dict>
+			<key>action</key> <string>website</string>
+			<key>cell</key> <string>PSButtonCell</string>
+			<key>label</key> <string>My Website</string>
+			<key>dontIndentOnRemove</key> <true/>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key> <string>License</string>
+			<key>footerText</key>
+			<string>Do what you want with it, just email me if you are going to publish parts of this. I also would like to be mentioned in the source code, if published in source code form, and credited, if published only in binary form. Due to the informality of this license, you are allowed to ignore this if you want to.</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key> <string></string>
+			<key>footerText</key>
+			<string>This software uses MWFeedParser. Say thanks to Michael Waterfall as well.</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key> <string>MWFeedParser License</string>
+			<key>footerText</key>
+			<string>Copyright (c) 2010 Michael Waterfall michaelwaterfall@gmail.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included
+   in all copies or substantial portions of the Software.
+
+2. This Software cannot be used to archive or collect data such as (but not
+   limited to) that of events, news, experiences and activities, for the
+   purpose of any concept relating to diary/journal keeping.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Made with love in 2016 by H6nry (henry.anonym@gmail.com)</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>RSSPeek</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = rsspeekprefs;
+	cell = PSLinkCell;
+	detail = rsspeekprefsListController;
+	icon = Icon.png;
+	isController = 1;
+	label = RSSPeek;
+    };
+}

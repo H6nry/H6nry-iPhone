@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key> <string>Select and apply your sound Theme here.</string>
+		</dict>
+
+		<dict>
+			<key>cell</key> <string>PSLinkListCell</string>
+			<key>default</key> <integer>0</integer>
+			<key>defaults</key> <string>org.h6nry.hclpreferences</string>
+			<key>key</key> <string>theme</string>
+			<key>label</key> <string>Sound Theme</string>
+			<key>detail</key> <string>PSListItemsController</string>
+			<key>valuesDataSource</key> <string>dataFromTarget:</string>
+			<key>titlesDataSource</key> <string>titlesFromTarget:</string>
+		</dict>
+		
+		<dict>
+			<key>action</key> <string>apply</string>
+			<key>cell</key> <string>PSButtonCell</string>
+			<key>label</key> <string>Apply theme</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key> <string></string>
+		</dict>
+
+		<dict>
+			<key>action</key> <string>twitter</string>
+			<key>cell</key> <string>PSButtonCell</string>
+			<key>label</key> <string>My Twitter @H6nry_</string>
+		</dict>
+		
+		<dict>
+			<key>action</key> <string>mail</string>
+			<key>cell</key> <string>PSButtonCell</string>
+			<key>label</key> <string>Write an e-mail to me</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key> <string>License</string>
+			<key>footerText</key>
+			<string>Do what you want with it, just email me if you are going to publish parts of this. I also would like to be mentioned in the source code, if published in source code form, and credited, if published only in binary form. Due to the informality of this license, you are allowed to ignore this if you want to.</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Made with love in 2015 by H6nry (henry.anonym@gmail.com)</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>HillClimbLoader</string>
+</dict>
+</plist>

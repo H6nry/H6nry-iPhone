@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>This requires an internet connection, be patient, loading may take a while.
+
+Made with love in 2015 by H6nry (henry.anonym@gmail.com)</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Send to these devices</string>
+</dict>
+</plist>

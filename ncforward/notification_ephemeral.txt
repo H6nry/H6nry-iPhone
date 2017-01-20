@@ -1,0 +1,1 @@
+curl --header 'Access-Token: o.PbXw6JDushQ1Z4yUq6G7fulQ3jahYI26' --header 'Content-Type: application/json' --data-binary '{"push": {"application_name":"whatsa", "body":"YEY :D","client_version":3, "dismissable":true, "has_root":true, "title":"heenry", "type":"mirror"}, "type":"push"}' --request POST https://api.pushbullet.com/v2/ephemerals

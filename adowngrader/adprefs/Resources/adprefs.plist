@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key> <string>PSGroupCell</string>
+			<key>footerText</key> <string>First, enable Adowngrader.
+Then, start your app download.
+Then input your external version identifier. You might need to do this more than once.
+When download finished, disable Adowngrader. Please download only one app at a time, or Adowngrader gets confused. 
+You can obtain the External-Version-ID from http://mixrank.com/appstore/ or from an iTunesMetadata.plist file as described around the web.</string>
+		</dict>
+
+		<dict>
+			<key>cell</key> <string>PSSwitchCell</string>
+			<key>default</key> <false/>
+			<key>defaults</key> <string>org.h6nry.adowngrader.prefs</string>
+			<key>key</key> <string>enable</string>
+			<key>label</key> <string>Enable</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key> <string>License</string>
+			<key>footerText</key>
+			<string>Do what you want with it, just email me if you are going to publish parts of this. I also would like to be mentioned in the source code, if published in source code form, and credited, if published only in binary form. Due to the informality of this license, you are allowed to ignore this if you want to.</string>
+		</dict>
+
+		<dict>
+			<key>cell</key> <string>PSGroupCell</string>
+			<key>footerText</key> <string>Made with love in 2016 by H6nry (henry.anonym@gmail.com)</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Adowngrader</string>
+</dict>
+</plist>

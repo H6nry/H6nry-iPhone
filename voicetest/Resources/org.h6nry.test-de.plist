@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>VSRecognitionClasses</key>
+	<array>
+		<dict>
+			<key>VSRecognitionClassIdentifier</key>  <string>test</string>
+
+			<key>VSRecognitionClassElements</key>
+			<array>
+				<string>Test</string>
+                <string>testen</string>
+                <string>testing</string>
+			</array>
+
+			<key>VSRecognitionClassType</key>  <string>VSRecognitionClassTypeCommand</string>
+		</dict>
+
+		<dict>
+			<key>VSRecognitionClassIdentifier</key>  <string>word</string>
+
+			<key>VSRecognitionClassElements</key>
+			<array>
+				<string>hallo</string>
+                <string>wer</string>
+                <string>bist</string>
+				<string>du</string>
+			</array>
+		</dict>
+	</array>
+
+	<key>VSRecognitionSequences</key>
+	<array>
+		<dict>
+			<key>VSRecognitionSequenceElements</key>
+			<array>
+				<string>test</string>
+			</array>
+		</dict>
+		<dict>
+			<key>VSRecognitionSequenceElements</key>
+			<array>
+				<string>test</string>
+				<string>word+</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

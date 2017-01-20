@@ -1,0 +1,10 @@
+Package: org.h6nry.dockplay
+Name: Dockplay
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Swipe gestures on lockscreen's now playing album art.
+Maintainer: H6nry <henry.anonym@gmail.com>
+Author: H6nry <henry.anonym@gmail.com>
+Section: Tweaks
+Tags: purpose::extension, compatible::ios6

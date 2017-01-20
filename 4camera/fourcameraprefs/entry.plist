@@ -1,0 +1,9 @@
+{
+    entry = {
+		cell = PSSwitchCell;
+		default = 1;
+		defaults = org.h6nry.4camera-prefs;
+		key = Enabled;
+		label = 4camera;
+    };
+}

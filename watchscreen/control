@@ -1,0 +1,9 @@
+Package: org.h6nry.watchscreen
+Name: watchscreen
+Depends: firmware (>= 6.0), firmware (< 7.0), mobilesubstrate, preferenceloader
+Version: 0.10
+Architecture: iphoneos-arm
+Description: Apple Watch homescreen for your iDevice on iOS 6 and 7 and 8
+Maintainer: H6nry <henry.anonym@gmail.com>
+Author: H6nry <henry.anonym@gmail.com>
+Section: Tweaks

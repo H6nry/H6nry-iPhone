@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = hclpreferences;
+	cell = PSLinkCell;
+	detail = hclpreferencesListController;
+	icon = hclpreferences.png;
+	isController = 1;
+	label = HillClimbLoader;
+    };
+}

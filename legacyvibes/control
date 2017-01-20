@@ -1,0 +1,9 @@
+Package: org.h6nry.legacyvibes
+Name: LegacyVibes
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Haptic feedback made easy.
+Maintainer: H6nry <henry.anonym@gmail.com>
+Author: H6nry <henry.anonym@gmail.com>
+Section: Tweaks

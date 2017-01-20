@@ -1,0 +1,9 @@
+Package: org.h6nry.4camera
+Name: 4camera
+Depends: mobilesubstrate, firmware (>= 6.0), firmware (< 7.0), preferenceloader
+Version: 0.9.0
+Architecture: iphoneos-arm
+Description: The beautiful iPhone 5 (4 inch) Camera UI on iPhone 4/4S for iOS 6
+Maintainer: H6nry <henry.anonym@gmail.com>
+Author: H6nry <henry.anonym@gmail.com>
+Section: Tweaks

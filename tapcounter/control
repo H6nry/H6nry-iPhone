@@ -1,0 +1,9 @@
+Package: org.h6nry.tapcounter
+Name: Tapcounter
+Depends: mobilesubstrate, preferenceloader
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Count your taps!
+Maintainer: H6nry <henry.anonym@gmail.com>
+Author: H6nry <henry.anonym@gmail.com>
+Section: Tweaks

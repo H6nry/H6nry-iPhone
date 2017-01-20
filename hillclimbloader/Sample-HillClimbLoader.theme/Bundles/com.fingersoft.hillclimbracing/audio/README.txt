@@ -1,0 +1,10 @@
+Due to copyright reasons, i cannot redistribute the bgmusic0X files i originally wanted to ship with this theme.
+Anyways, if you want to listen to them, download them from their creator here:
+
+https://soundcloud.com/djmaaleek
+
+(Search for Dj Maaleek X gillette Abdi - AMK)
+
+Direct Link:
+
+http://cf-media.sndcdn.com/YtOh8wjFiDXf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiKjovL2NmLW1lZGlhLnNuZGNkbi5jb20vWXRPaDh3akZpRFhmIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNDQyMjQ3NzM4fX19XX0_&Signature=VsjEc9bsnxFQsASX4g17ed8mZ81R325dLt15dunZMnt8gRPGNdfo7uovWmS8wNLejwshBIGkBJIOJ4oSCcLYo0ntAeleMOtZqF3QrNCv1WnFuG9VD-O74EbKEn5DOxA5KVeDzMaOdKHdZ~KSv7y6ho~golstzn1r1Bc5YlARY04e1OkJLStR9owRqLKdkQNa78FUWJKBfl0uhs9WFCEGiSAsA8Ii5UPPuIH8wcTB1v1aQE~C-Qa-npkAq4MaKMeHW8InIUiIavjmmoz4artazZqVZi8JHT90m1xANspOD~DFQV9yNWOOdNV24U6W-oEqDUH5MW4nWmrvB0pEpJ1eIw__&Key-Pair-Id=APKAJAGZ7VMH2PFPW6UQ

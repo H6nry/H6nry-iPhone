@@ -1,0 +1,9 @@
+Package: org.h6nry.statusbarlockicon
+Name: StatusBarLockIcon
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Get back the lock on lockscreen!
+Maintainer: H6nry <henry.anonym@gmail.com>
+Author: H6nry <henry.anonym@gmail.com>
+Section: Tweaks

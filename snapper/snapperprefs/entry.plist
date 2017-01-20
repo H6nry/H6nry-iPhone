@@ -1,0 +1,9 @@
+{
+    entry = {
+		cell = PSSwitchCell;
+		default = 1;
+		defaults = org.h6nry.snapper-prefs;
+		key = Enabled;
+		label = SnapPer;
+    };
+}

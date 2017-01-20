@@ -1,0 +1,10 @@
+Package: org.h6nry.crossfade
+Name: crossfade
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Crossfade. In your music app.
+Maintainer: H6nry <henry.anonym@gmail.com>
+Author: H6nry <henry.anonym@gmail.com>
+Section: Tweaks
+Tag: role::user

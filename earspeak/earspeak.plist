@@ -1,0 +1,6 @@
+{
+	Filter = {
+		Bundles = ( "com.apple.avfoundation", "com.apple.audio.toolbox.AudioToolbox" );
+		Mode = "Any";
+	};
+}

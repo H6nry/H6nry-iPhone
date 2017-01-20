@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entry</key>
+	<dict>
+		<key>cell</key> <string>PSLinkCell</string>
+		<key>icon</key> <string>org.h6nry.watchscreenprefs@2x.png</string>
+		<key>label</key> <string>watchscreen</string>
+	</dict>
+	
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key> <string>PSGroupCell</string>
+			<key>label</key> <string>Personalize your Watchscreen here!</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key> <string>PSSwitchCell</string>
+			<key>default</key> <true/>
+			<key>defaults</key> <string>org.h6nry.watchscreen.prefs</string>
+			<key>key</key> <string>enable</string>
+			<key>label</key> <string>Enable watchscreen</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key> <string>PSSwitchCell</string>
+			<key>default</key> <true/>
+			<key>defaults</key> <string>org.h6nry.watchscreen.prefs</string>
+			<key>key</key> <string>iconlabels</string>
+			<key>label</key> <string>Display icon labels</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key> <string>PSSwitchCell</string>
+			<key>default</key> <false/>
+			<key>defaults</key> <string>org.h6nry.watchscreen.prefs</string>
+			<key>key</key> <string>blackbg</string>
+			<key>label</key> <string>Black background</string>
+		</dict>
+		
+		<!--<dict>
+			<key>cell</key> <string>PSSwitchCell</string>
+			<key>default</key> <false/>
+			<key>defaults</key> <string>org.h6nry.watchscreen.prefs</string>
+			<key>key</key> <string>batterysave</string>
+			<key>label</key> <string>Battery safe mode</string>
+		</dict>-->
+		
+		<dict>
+			<key>action</key> <string>apply</string>
+			<key>cell</key> <string>PSButtonCell</string>
+			<key>label</key> <string>Tap to respring.</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key> <string>PSGroupCell</string>
+			<key>label</key> <string></string>
+		</dict>
+		
+		<dict>
+			<key>action</key> <string>twitter</string>
+			<key>cell</key> <string>PSButtonCell</string>
+			<key>label</key> <string>My Twitter @H6nry_</string>
+		</dict>
+		
+		<dict>
+			<key>action</key> <string>mail</string>
+			<key>cell</key> <string>PSButtonCell</string>
+			<key>label</key> <string>Write an e-mail to me</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key> <string>PSGroupCell</string>
+			<key>label</key> <string>Copyright 2015 by H6nry</string>
+		</dict>
+	</array>
+	
+	<key>title</key>
+	<string>Watchscreen</string>
+</dict>
+</plist>
